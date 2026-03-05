@@ -1,0 +1,10 @@
+
+body{background-image:url('Background3.gif');} 		/* This adds the background to the pages */
+
+h1 {background-color:Green; text-align:Center;} 	/* Headings declared as H1 will be centered and Green */
+
+p {font-family:'Arial'; font-size:14px;color:blue;}	/* Paragraphs set as Arial, 14px, and Blue */
+	
+a:link {color:red;}    					/* Hyperlinks to be given Red color when not visited */
+	
+a:visited {color:green;} 				/* Hyperlinks to turn green once they are visited */
